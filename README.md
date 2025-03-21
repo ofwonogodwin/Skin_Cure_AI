@@ -1,3 +1,5 @@
+**NB. The code there is just a road map for the dev process. It's not the real system.**
+
 # Skin_Cure_AI  (In Development)
 
 This AI-powered web-based system is designed to detect skin diseases from images and provide diagnoses with recommended treatments. <br>
