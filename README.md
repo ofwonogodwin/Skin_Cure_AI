@@ -2,6 +2,8 @@
 
 # Skin_Cure_AI  (Development Starting In May)
 
+### Have Developed a simple MVP separately in an MVP Repo
+
 This AI-powered web-based system is designed to detect skin diseases from images and provide diagnoses with recommended treatments. <br>
 The project is currently in development and is expected to have an initial prototype by **May 2025**.
 ## Planned Features
